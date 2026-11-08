@@ -18,6 +18,7 @@ func main() {
 
 	fmt.Println("Decoded Hash:", decoded)
 
+	// i just used the url
 	// words related to cats
 	words := []string{"cat", "cats", "kitty", "kitten", "meow", "meowmeow"}
 
